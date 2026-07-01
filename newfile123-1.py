@@ -16,7 +16,7 @@ import logging
 from datetime import datetime
 
 # ── CONFIG ─────────────────────────────────────────────────────────────────────
-TWELVEDATA_API_KEY = "21a677e0253c4e09b440f5f6e7a0f496"
+TWELVEDATA_API_KEY = "89f768d64ccf41e59baa1080e2ae8d8d"
 TELEGRAM_BOT_TOKEN = "8945243492:AAGtL3pnVVBmXM9W-sUTeXx45B1YKM5wHSU"
 TELEGRAM_CHAT_ID   = "8493770268"
 
